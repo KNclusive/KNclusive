@@ -1,6 +1,6 @@
 # Karan Nair 👋
 ## Data Scientist / ML Engineer
-![Data Scientist / ML Engineer](https://media.licdn.com/dms/image/D4E16AQGY0NFEW2biTQ/profile-displaybackgroundimage-shrink_350_1400/0/1714575288012?e=1720051200&v=beta&t=716m1S_ERlX1tz3BB4Lut9hosDPArYBfL7ezFN_h5PU)
+![Data Scientist / ML Engineer](https://media.licdn.com/dms/image/v2/D4E16AQGY0NFEW2biTQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714575288012?e=1743638400&v=beta&t=zIqEVO8SFrQ_5lTa0pap_UBwQr5tDq9LcfXm-5H8mZ0)
 
 Fancy a peek into the playground of a curious data scientist and machine learning engineer? Welcome aboard!
 1. I wield Python like a magic wand, conjuring insights from messy data. 
